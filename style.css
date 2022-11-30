@@ -147,7 +147,7 @@ html {
   #guatemala {
     color: #FFFFFF;
     position: absolute;
-    left: 550px;
+    left: 545px;
     margin: 10px;
   }
   
@@ -169,7 +169,7 @@ html {
   #ireland {
     color: #FFFFFF;
     position: absolute;
-    left: 830px;
+    left: 835px;
     margin: 10px;
     top: 1310px;
   }
@@ -177,14 +177,14 @@ html {
   #italy {
     color: #FFFFFF;
     position: absolute;
-    left: 970px;
+    left: 980px;
     margin: 10px;
     top: 1310px;
   }
   
   #moab {
     color: #FFFFFF;
-    left: 340px;
+    left: 350px;
     position: absolute;
     margin: 10px;
     top: 1600px;
@@ -192,7 +192,7 @@ html {
   
   #rocky {
     color: #000000;
-    left: 535px;
+    left: 540px;
     position: absolute;
     margin: 10px;
     top: 1355px;
@@ -201,17 +201,17 @@ html {
   #switzerland {
     color: #000000;
     position: absolute;
-    left: 970px;
+    left: 980px;
     margin: 10px;
     top: 1605px;
   }
   
   #uk {
     color: #FFFFFF;
-    left: 435px;
+    left: 440px;
     position: absolute;
     margin: 10px;
-    top: 1895px;
+    top: 1900px;
   }
   
   #us {
@@ -219,15 +219,15 @@ html {
     left: 540px;
     position: absolute;
     margin: 10px;
-    top: 1655px;
+    top: 1650px;
   }
   
   #wyoming {
     color: #FFFFFF;
-    left: 970px;
+    left: 980px;
     position: absolute;
     margin: 10px;
-    top: 1655px;
+    top: 1650px;
   }
   
   #blank {
