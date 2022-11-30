@@ -1,0 +1,266 @@
+html {
+    background-color: #000000;
+  }
+  
+  body {
+    color: #FFFFFF;
+    font-family: Arial;
+    margin: auto;
+    width: 1310px;
+  }
+  
+  header, footer {
+    display: inline-block;
+    text-align: center;
+    text-transform: uppercase;
+    width: 1310px;
+  }
+  
+  h1 {
+    color: #007D7B;
+    display: inline-block;
+    font-size: 40px;
+  }
+  
+  h2 {
+    font-size: 40px;
+    text-transform: uppercase;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  nav {
+    display: inline;
+    float: right;
+  }
+  
+  nav li {
+    display: inline-flex;
+    margin: 5px;
+    padding-left: 110px;
+    padding-top: 20px;
+  }
+  
+  nav a {
+    color: #FFFFFF;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: #007D7B;
+  }
+  
+  [href="#top"] {
+    background-color: #007D7B;
+    bottom: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: fixed;
+    right: 0px;
+  }
+  
+  [href="#top"]:hover {
+    background-color: #FFFFFF;
+    color: #007D7B;
+    bottom: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: fixed;
+    right: 0px;
+  }
+  
+  main {
+    background-color: #FFFFFF;
+    color: #000000;
+    padding: 0px;
+    width: 1310px;
+  }
+  
+  #about {
+    display: inline;
+    text-align: right;
+    width: 420px;
+  }
+  
+  #about img {
+    background-color: #555555;
+    display: inline;
+    float: left;
+    height: auto;
+    margin: 10px;
+    width: 850px;
+  }
+  
+  #about h2 {
+    margin: 10px;
+  }
+  
+  #about p {
+    margin: 10px;
+  }
+  
+  #gallery {
+    display: inline;
+  }
+  
+  #gallery h2 {
+    margin: 10px;
+  }
+  
+  #gallery p {
+    margin: 10px;
+  }
+  
+  div img {
+    background-color: #555555;
+    float: left;
+    height: 281px;
+    margin: 8px;
+    width: 420px;
+  }
+  
+  div p {
+    font-size: 16px;
+    text-transform: uppercase;
+  }
+  
+  img.panel {
+    height: 630px;
+    width: 420px;
+  }
+  
+  #contact {
+    display: block;
+    text-align: center;
+  }
+  
+  #chile {
+    color: #000000;
+    position: absolute;
+    margin: 10px;
+  }
+  
+  #guatemala {
+    color: #FFFFFF;
+    position: absolute;
+    left: 530px;
+    margin: 10px;
+  }
+  
+  #hawaii {
+    color: #FFFFFF;
+    position: absolute;
+    left: 1275px;
+    margin: 10px;
+    top: 590px;
+  }
+  
+  #iran {
+    color: #000000;
+    position: absolute;
+    margin: 10px;
+    top: 635px;
+  }
+  
+  #ireland {
+    color: #FFFFFF;
+    position: absolute;
+    left: 825px;
+    margin: 10px;
+    top: 1235px;
+  }
+  
+  #italy {
+    color: #FFFFFF;
+    position: absolute;
+    left: 965px;
+    margin: 10px;
+    top: 1235px;
+  }
+  
+  #moab {
+    color: #FFFFFF;
+    left: 340px;
+    position: absolute;
+    margin: 10px;
+    top: 1530px;
+  }
+  
+  #rocky {
+    color: #000000;
+    left: 530px;
+    position: absolute;
+    margin: 10px;
+    top: 1280px;
+  }
+  
+  #switzerland {
+    color: #000000;
+    position: absolute;
+    left: 965px;
+    margin: 10px;
+    top: 1535px;
+  }
+  
+  #uk {
+    color: #FFFFFF;
+    left: 435px;
+    position: absolute;
+    margin: 10px;
+    top: 1835px;
+  }
+  
+  #us {
+    color: #FFFFFF;
+    left: 530px;
+    position: absolute;
+    margin: 10px;
+    top: 1580px;
+  }
+  
+  #wyoming {
+    color: #FFFFFF;
+    left: 965px;
+    position: absolute;
+    margin: 10px;
+    top: 1580px;
+  }
+  
+  #blank {
+    margin: 0px;
+    visibility: hidden;
+  }
+  
+  form {
+    text-align: left;
+    margin: auto;
+    width: 850px;
+  }
+  
+  form p {
+    font-size: 16px;
+  }
+  
+  input.box {
+    color: #007D7B;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px;
+    width: 850px;
+  }
+  
+  input.button {
+    background-color: #007D7B;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-size: 16px;
+    margin: 10px;
+    padding-bottom: 10px;
+    padding-left: 125px;
+    padding-right: 125px;
+    padding-top: 10px;
+    text-transform: uppercase;
+  }
