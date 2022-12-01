@@ -265,3 +265,7 @@ html {
     padding-top: 10px;
     text-transform: uppercase;
   }
+
+  small {
+    font-size: 16px;
+  }
